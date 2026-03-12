@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Main Home</h1>
+    <a href="pages/login.php">Login</a>
+    <a href="pages/register.php">Register</a>
 </body>
 </html>
