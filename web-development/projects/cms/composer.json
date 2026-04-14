@@ -1,0 +1,17 @@
+{
+    "name": "manish/cms",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Manish\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manish Kumar Mishra",
+            "email": "manishmishra.shg@gmail.com"
+        }
+    ],
+    "require": {}
+}

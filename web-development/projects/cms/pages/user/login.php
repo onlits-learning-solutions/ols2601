@@ -35,7 +35,7 @@
             <h3>Lets take you in!</h3>
         </div>
         <div class="right">
-            <form action="../auth/login.php" method="post">
+            <form action="/user/authenticate" method="post">
                 <label for="email">Email</label>
                 <input type="text" name="email" id="email">
                 <label for="password">Password</label>
